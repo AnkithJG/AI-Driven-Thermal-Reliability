@@ -1,0 +1,4 @@
+# Ignore datasets and compiled files
+*.mat
+__pycache__/
+*.pyc
